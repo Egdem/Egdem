@@ -6,3 +6,5 @@
 - 🌱 I’m currently learning ML,DL,UML.... physics??? and much more :)
 - 👯 I’m looking to collaborate on promising IT companies
 
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Egdem)
