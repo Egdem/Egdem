@@ -3,7 +3,7 @@
 
 <h3 align="center">Student of the best Russian Technical University 🇷🇺</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=And+I+want+to+become+a+cool+analyst!!!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+want+to+become+a+cool+analyst!!!)
 
 - 🔭 I’m currently working on AI for business analysis
   
